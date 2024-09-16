@@ -1,0 +1,8 @@
+{
+	"name": "{enableScheduleName 変数}",
+	"properties": {
+		"startTime": "{enableDate 変数}+09:00",
+		"frequency": "OneTime",
+		"timeZone": "Asia/Tokyo"
+	}
+}
