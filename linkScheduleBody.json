@@ -1,0 +1,14 @@
+{
+	"properties": {
+		"runbook": {
+			"name": "myPIM-enable"
+		},
+		"schedule": {
+			"name": "{enableScheduleName 変数}"
+		},
+		"parameters": {
+			"User": "{フォームの回答 : 対象ユーザー UPN}",
+			"RoleName": "{フォームの回答 : 対象ロール名}"
+		}
+	}
+}
